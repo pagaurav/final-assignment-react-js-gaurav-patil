@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "firstname": "fgn ",
+      "lastname": "ncfgfc",
+      "username": "cnvbcvbb@ffgd",
+      "password": "dfhdg",
+      "dateofbirth": "2023-09-25",
+      "id": 2
+    },
+    {
+      "firstname": "dfh",
+      "lastname": "hdghdf",
+      "username": "dfgfh@2ghgshakb",
+      "password": "pass@123",
+      "dateofbirth": "2023-09-25",
+      "id": 3
+    },
+    {
+      "firstname": "dfh",
+      "lastname": "hdghdf",
+      "username": "dfgfh@2ghgshakb",
+      "password": "passsss@123",
+      "dateofbirth": "2023-09-25",
+      "id": 4
+    },
+    {
+      "firstname": "Virat",
+      "lastname": "Kohli",
+      "username": "Virat@gmail.com",
+      "password": "pass@123",
+      "dateofbirth": "2023-09-25",
+      "id": 5
+    },
+    {
+      "firstname": "Dipak",
+      "lastname": "Patil",
+      "username": "Dipakpatil@gmail.com",
+      "password": "Test123$",
+      "dateofbirth": "2023-09-25",
+      "id": 6
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Patil",
+      "username": "Patilghgjhs@gmial.com",
+      "password": "Test123$",
+      "dateofbirth": "2023-09-25",
+      "id": 7
+    },
+    {
+      "firstname": "bfgf",
+      "lastname": "bgf",
+      "username": "pankgsa@gnaui.com",
+      "password": "Pas@123",
+      "dateofbirth": "2023-09-26",
+      "id": 8
+    },
+    {
+      "firstname": "gesgrs",
+      "lastname": "segr",
+      "username": "Virat@gmail.co",
+      "password": "Pas@1123",
+      "dateofbirth": "2023-09-26",
+      "id": 9
+    },
+    {
+      "firstname": "gdsfgsd",
+      "lastname": "gdsgf",
+      "username": "Virat@gmail.comj",
+      "password": "Paass@13",
+      "dateofbirth": "2023-09-26",
+      "id": 10
+    },
+    {
+      "firstname": "GAURAV",
+      "lastname": "PATIL",
+      "username": "patilgaurav22112001@gmail.com",
+      "password": "Pass@123",
+      "dateofbirth": "2025-05-08",
+      "id": 11
+    }
+  ]
+}

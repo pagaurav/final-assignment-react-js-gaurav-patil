@@ -1,0 +1,12 @@
+.dashboard{
+  min-height:  calc(100vh - 100px);
+  background: rgb(59, 56, 56);
+  margin-top: 70px; 
+}
+
+.dashboardHeading {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+  padding-top: 200px;
+}
