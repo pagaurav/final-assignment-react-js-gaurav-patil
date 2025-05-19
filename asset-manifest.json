@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/final-assignment-react-js-gaurav-patil/static/css/main.f1a7640d.css",
+    "main.js": "/final-assignment-react-js-gaurav-patil/static/js/main.7e27c5ac.js",
+    "static/js/787.84186d23.chunk.js": "/final-assignment-react-js-gaurav-patil/static/js/787.84186d23.chunk.js",
+    "index.html": "/final-assignment-react-js-gaurav-patil/index.html",
+    "main.f1a7640d.css.map": "/final-assignment-react-js-gaurav-patil/static/css/main.f1a7640d.css.map",
+    "main.7e27c5ac.js.map": "/final-assignment-react-js-gaurav-patil/static/js/main.7e27c5ac.js.map",
+    "787.84186d23.chunk.js.map": "/final-assignment-react-js-gaurav-patil/static/js/787.84186d23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a7640d.css",
+    "static/js/main.7e27c5ac.js"
+  ]
+}
