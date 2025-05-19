@@ -1,3 +1,0 @@
-json-server --watch db.json --port 8000
-
-json File Name : db.json
